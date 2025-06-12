@@ -1,0 +1,406 @@
+{"s_name":"chevrolet chevelle malibu","n_mpg":"18","n_cyls":"8","n_disp":"307","n_hp":"130","n_wlbs":"3504","n_acc":"12","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"buick skylark 320","n_mpg":"15","n_cyls":"8","n_disp":"350","n_hp":"165","n_wlbs":"3693","n_acc":"11.5","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"plymouth satellite","n_mpg":"18","n_cyls":"8","n_disp":"318","n_hp":"150","n_wlbs":"3436","n_acc":"11","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"amc rebel sst","n_mpg":"16","n_cyls":"8","n_disp":"304","n_hp":"150","n_wlbs":"3433","n_acc":"12","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"ford torino","n_mpg":"17","n_cyls":"8","n_disp":"302","n_hp":"140","n_wlbs":"3449","n_acc":"10.5","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"ford galaxie 500","n_mpg":"15","n_cyls":"8","n_disp":"429","n_hp":"198","n_wlbs":"4341","n_acc":"10","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"chevrolet impala","n_mpg":"14","n_cyls":"8","n_disp":"454","n_hp":"220","n_wlbs":"4354","n_acc":"9","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"plymouth fury iii","n_mpg":"14","n_cyls":"8","n_disp":"440","n_hp":"215","n_wlbs":"4312","n_acc":"8.5","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"pontiac catalina","n_mpg":"14","n_cyls":"8","n_disp":"455","n_hp":"225","n_wlbs":"4425","n_acc":"10","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"amc ambassador dpl","n_mpg":"15","n_cyls":"8","n_disp":"390","n_hp":"190","n_wlbs":"3850","n_acc":"8.5","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"citroen ds-21 pallas","n_mpg":"","n_cyls":"4","n_disp":"133","n_hp":"115","n_wlbs":"3090","n_acc":"17.5","s_year":"1970-01-01","s_origin":"Europe"}
+{"s_name":"chevrolet chevelle concours (sw)","n_mpg":"","n_cyls":"8","n_disp":"350","n_hp":"165","n_wlbs":"4142","n_acc":"11.5","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"ford torino (sw)","n_mpg":"","n_cyls":"8","n_disp":"351","n_hp":"153","n_wlbs":"4034","n_acc":"11","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"plymouth satellite (sw)","n_mpg":"","n_cyls":"8","n_disp":"383","n_hp":"175","n_wlbs":"4166","n_acc":"10.5","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"amc rebel sst (sw)","n_mpg":"","n_cyls":"8","n_disp":"360","n_hp":"175","n_wlbs":"3850","n_acc":"11","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"dodge challenger se","n_mpg":"15","n_cyls":"8","n_disp":"383","n_hp":"170","n_wlbs":"3563","n_acc":"10","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"plymouth 'cuda 340","n_mpg":"14","n_cyls":"8","n_disp":"340","n_hp":"160","n_wlbs":"3609","n_acc":"8","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"ford mustang boss 302","n_mpg":"","n_cyls":"8","n_disp":"302","n_hp":"140","n_wlbs":"3353","n_acc":"8","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"chevrolet monte carlo","n_mpg":"15","n_cyls":"8","n_disp":"400","n_hp":"150","n_wlbs":"3761","n_acc":"9.5","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"buick estate wagon (sw)","n_mpg":"14","n_cyls":"8","n_disp":"455","n_hp":"225","n_wlbs":"3086","n_acc":"10","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"toyota corona mark ii","n_mpg":"24","n_cyls":"4","n_disp":"113","n_hp":"95","n_wlbs":"2372","n_acc":"15","s_year":"1970-01-01","s_origin":"Japan"}
+{"s_name":"plymouth duster","n_mpg":"22","n_cyls":"6","n_disp":"198","n_hp":"95","n_wlbs":"2833","n_acc":"15.5","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"amc hornet","n_mpg":"18","n_cyls":"6","n_disp":"199","n_hp":"97","n_wlbs":"2774","n_acc":"15.5","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"ford maverick","n_mpg":"21","n_cyls":"6","n_disp":"200","n_hp":"85","n_wlbs":"2587","n_acc":"16","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"datsun pl510","n_mpg":"27","n_cyls":"4","n_disp":"97","n_hp":"88","n_wlbs":"2130","n_acc":"14.5","s_year":"1970-01-01","s_origin":"Japan"}
+{"s_name":"volkswagen 1131 deluxe sedan","n_mpg":"26","n_cyls":"4","n_disp":"97","n_hp":"46","n_wlbs":"1835","n_acc":"20.5","s_year":"1970-01-01","s_origin":"Europe"}
+{"s_name":"peugeot 504","n_mpg":"25","n_cyls":"4","n_disp":"110","n_hp":"87","n_wlbs":"2672","n_acc":"17.5","s_year":"1970-01-01","s_origin":"Europe"}
+{"s_name":"audi 100 ls","n_mpg":"24","n_cyls":"4","n_disp":"107","n_hp":"90","n_wlbs":"2430","n_acc":"14.5","s_year":"1970-01-01","s_origin":"Europe"}
+{"s_name":"saab 99e","n_mpg":"25","n_cyls":"4","n_disp":"104","n_hp":"95","n_wlbs":"2375","n_acc":"17.5","s_year":"1970-01-01","s_origin":"Europe"}
+{"s_name":"bmw 2002","n_mpg":"26","n_cyls":"4","n_disp":"121","n_hp":"113","n_wlbs":"2234","n_acc":"12.5","s_year":"1970-01-01","s_origin":"Europe"}
+{"s_name":"amc gremlin","n_mpg":"21","n_cyls":"6","n_disp":"199","n_hp":"90","n_wlbs":"2648","n_acc":"15","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"ford f250","n_mpg":"10","n_cyls":"8","n_disp":"360","n_hp":"215","n_wlbs":"4615","n_acc":"14","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"chevy c20","n_mpg":"10","n_cyls":"8","n_disp":"307","n_hp":"200","n_wlbs":"4376","n_acc":"15","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"dodge d200","n_mpg":"11","n_cyls":"8","n_disp":"318","n_hp":"210","n_wlbs":"4382","n_acc":"13.5","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"hi 1200d","n_mpg":"9","n_cyls":"8","n_disp":"304","n_hp":"193","n_wlbs":"4732","n_acc":"18.5","s_year":"1970-01-01","s_origin":"USA"}
+{"s_name":"datsun pl510","n_mpg":"27","n_cyls":"4","n_disp":"97","n_hp":"88","n_wlbs":"2130","n_acc":"14.5","s_year":"1971-01-01","s_origin":"Japan"}
+{"s_name":"chevrolet vega 2300","n_mpg":"28","n_cyls":"4","n_disp":"140","n_hp":"90","n_wlbs":"2264","n_acc":"15.5","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"toyota corona","n_mpg":"25","n_cyls":"4","n_disp":"113","n_hp":"95","n_wlbs":"2228","n_acc":"14","s_year":"1971-01-01","s_origin":"Japan"}
+{"s_name":"ford pinto","n_mpg":"25","n_cyls":"4","n_disp":"98","n_hp":"","n_wlbs":"2046","n_acc":"19","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"volkswagen super beetle 117","n_mpg":"","n_cyls":"4","n_disp":"97","n_hp":"48","n_wlbs":"1978","n_acc":"20","s_year":"1971-01-01","s_origin":"Europe"}
+{"s_name":"amc gremlin","n_mpg":"19","n_cyls":"6","n_disp":"232","n_hp":"100","n_wlbs":"2634","n_acc":"13","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"plymouth satellite custom","n_mpg":"16","n_cyls":"6","n_disp":"225","n_hp":"105","n_wlbs":"3439","n_acc":"15.5","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"chevrolet chevelle malibu","n_mpg":"17","n_cyls":"6","n_disp":"250","n_hp":"100","n_wlbs":"3329","n_acc":"15.5","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"ford torino 500","n_mpg":"19","n_cyls":"6","n_disp":"250","n_hp":"88","n_wlbs":"3302","n_acc":"15.5","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"amc matador","n_mpg":"18","n_cyls":"6","n_disp":"232","n_hp":"100","n_wlbs":"3288","n_acc":"15.5","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"chevrolet impala","n_mpg":"14","n_cyls":"8","n_disp":"350","n_hp":"165","n_wlbs":"4209","n_acc":"12","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"pontiac catalina brougham","n_mpg":"14","n_cyls":"8","n_disp":"400","n_hp":"175","n_wlbs":"4464","n_acc":"11.5","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"ford galaxie 500","n_mpg":"14","n_cyls":"8","n_disp":"351","n_hp":"153","n_wlbs":"4154","n_acc":"13.5","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"plymouth fury iii","n_mpg":"14","n_cyls":"8","n_disp":"318","n_hp":"150","n_wlbs":"4096","n_acc":"13","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"dodge monaco (sw)","n_mpg":"12","n_cyls":"8","n_disp":"383","n_hp":"180","n_wlbs":"4955","n_acc":"11.5","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"ford country squire (sw)","n_mpg":"13","n_cyls":"8","n_disp":"400","n_hp":"170","n_wlbs":"4746","n_acc":"12","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"pontiac safari (sw)","n_mpg":"13","n_cyls":"8","n_disp":"400","n_hp":"175","n_wlbs":"5140","n_acc":"12","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"amc hornet sportabout (sw)","n_mpg":"18","n_cyls":"6","n_disp":"258","n_hp":"110","n_wlbs":"2962","n_acc":"13.5","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"chevrolet vega (sw)","n_mpg":"22","n_cyls":"4","n_disp":"140","n_hp":"72","n_wlbs":"2408","n_acc":"19","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"pontiac firebird","n_mpg":"19","n_cyls":"6","n_disp":"250","n_hp":"100","n_wlbs":"3282","n_acc":"15","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"ford mustang","n_mpg":"18","n_cyls":"6","n_disp":"250","n_hp":"88","n_wlbs":"3139","n_acc":"14.5","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"mercury capri 2000","n_mpg":"23","n_cyls":"4","n_disp":"122","n_hp":"86","n_wlbs":"2220","n_acc":"14","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"opel 1900","n_mpg":"28","n_cyls":"4","n_disp":"116","n_hp":"90","n_wlbs":"2123","n_acc":"14","s_year":"1971-01-01","s_origin":"Europe"}
+{"s_name":"peugeot 304","n_mpg":"30","n_cyls":"4","n_disp":"79","n_hp":"70","n_wlbs":"2074","n_acc":"19.5","s_year":"1971-01-01","s_origin":"Europe"}
+{"s_name":"fiat 124b","n_mpg":"30","n_cyls":"4","n_disp":"88","n_hp":"76","n_wlbs":"2065","n_acc":"14.5","s_year":"1971-01-01","s_origin":"Europe"}
+{"s_name":"toyota corolla 1200","n_mpg":"31","n_cyls":"4","n_disp":"71","n_hp":"65","n_wlbs":"1773","n_acc":"19","s_year":"1971-01-01","s_origin":"Japan"}
+{"s_name":"datsun 1200","n_mpg":"35","n_cyls":"4","n_disp":"72","n_hp":"69","n_wlbs":"1613","n_acc":"18","s_year":"1971-01-01","s_origin":"Japan"}
+{"s_name":"volkswagen model 111","n_mpg":"27","n_cyls":"4","n_disp":"97","n_hp":"60","n_wlbs":"1834","n_acc":"19","s_year":"1971-01-01","s_origin":"Europe"}
+{"s_name":"plymouth cricket","n_mpg":"26","n_cyls":"4","n_disp":"91","n_hp":"70","n_wlbs":"1955","n_acc":"20.5","s_year":"1971-01-01","s_origin":"USA"}
+{"s_name":"toyota corona hardtop","n_mpg":"24","n_cyls":"4","n_disp":"113","n_hp":"95","n_wlbs":"2278","n_acc":"15.5","s_year":"1972-01-01","s_origin":"Japan"}
+{"s_name":"dodge colt hardtop","n_mpg":"25","n_cyls":"4","n_disp":"97.5","n_hp":"80","n_wlbs":"2126","n_acc":"17","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"volkswagen type 3","n_mpg":"23","n_cyls":"4","n_disp":"97","n_hp":"54","n_wlbs":"2254","n_acc":"23.5","s_year":"1972-01-01","s_origin":"Europe"}
+{"s_name":"chevrolet vega","n_mpg":"20","n_cyls":"4","n_disp":"140","n_hp":"90","n_wlbs":"2408","n_acc":"19.5","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"ford pinto runabout","n_mpg":"21","n_cyls":"4","n_disp":"122","n_hp":"86","n_wlbs":"2226","n_acc":"16.5","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"chevrolet impala","n_mpg":"13","n_cyls":"8","n_disp":"350","n_hp":"165","n_wlbs":"4274","n_acc":"12","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"pontiac catalina","n_mpg":"14","n_cyls":"8","n_disp":"400","n_hp":"175","n_wlbs":"4385","n_acc":"12","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"plymouth fury iii","n_mpg":"15","n_cyls":"8","n_disp":"318","n_hp":"150","n_wlbs":"4135","n_acc":"13.5","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"ford galaxie 500","n_mpg":"14","n_cyls":"8","n_disp":"351","n_hp":"153","n_wlbs":"4129","n_acc":"13","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"amc ambassador sst","n_mpg":"17","n_cyls":"8","n_disp":"304","n_hp":"150","n_wlbs":"3672","n_acc":"11.5","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"mercury marquis","n_mpg":"11","n_cyls":"8","n_disp":"429","n_hp":"208","n_wlbs":"4633","n_acc":"11","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"buick lesabre custom","n_mpg":"13","n_cyls":"8","n_disp":"350","n_hp":"155","n_wlbs":"4502","n_acc":"13.5","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"oldsmobile delta 88 royale","n_mpg":"12","n_cyls":"8","n_disp":"350","n_hp":"160","n_wlbs":"4456","n_acc":"13.5","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"chrysler newport royal","n_mpg":"13","n_cyls":"8","n_disp":"400","n_hp":"190","n_wlbs":"4422","n_acc":"12.5","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"mazda rx2 coupe","n_mpg":"19","n_cyls":"3","n_disp":"70","n_hp":"97","n_wlbs":"2330","n_acc":"13.5","s_year":"1972-01-01","s_origin":"Japan"}
+{"s_name":"amc matador (sw)","n_mpg":"15","n_cyls":"8","n_disp":"304","n_hp":"150","n_wlbs":"3892","n_acc":"12.5","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"chevrolet chevelle concours (sw)","n_mpg":"13","n_cyls":"8","n_disp":"307","n_hp":"130","n_wlbs":"4098","n_acc":"14","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"ford gran torino (sw)","n_mpg":"13","n_cyls":"8","n_disp":"302","n_hp":"140","n_wlbs":"4294","n_acc":"16","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"plymouth satellite custom (sw)","n_mpg":"14","n_cyls":"8","n_disp":"318","n_hp":"150","n_wlbs":"4077","n_acc":"14","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"volvo 145e (sw)","n_mpg":"18","n_cyls":"4","n_disp":"121","n_hp":"112","n_wlbs":"2933","n_acc":"14.5","s_year":"1972-01-01","s_origin":"Europe"}
+{"s_name":"volkswagen 411 (sw)","n_mpg":"22","n_cyls":"4","n_disp":"121","n_hp":"76","n_wlbs":"2511","n_acc":"18","s_year":"1972-01-01","s_origin":"Europe"}
+{"s_name":"peugeot 504 (sw)","n_mpg":"21","n_cyls":"4","n_disp":"120","n_hp":"87","n_wlbs":"2979","n_acc":"19.5","s_year":"1972-01-01","s_origin":"Europe"}
+{"s_name":"renault 12 (sw)","n_mpg":"26","n_cyls":"4","n_disp":"96","n_hp":"69","n_wlbs":"2189","n_acc":"18","s_year":"1972-01-01","s_origin":"Europe"}
+{"s_name":"ford pinto (sw)","n_mpg":"22","n_cyls":"4","n_disp":"122","n_hp":"86","n_wlbs":"2395","n_acc":"16","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"datsun 510 (sw)","n_mpg":"28","n_cyls":"4","n_disp":"97","n_hp":"92","n_wlbs":"2288","n_acc":"17","s_year":"1972-01-01","s_origin":"Japan"}
+{"s_name":"toyouta corona mark ii (sw)","n_mpg":"23","n_cyls":"4","n_disp":"120","n_hp":"97","n_wlbs":"2506","n_acc":"14.5","s_year":"1972-01-01","s_origin":"Japan"}
+{"s_name":"dodge colt (sw)","n_mpg":"28","n_cyls":"4","n_disp":"98","n_hp":"80","n_wlbs":"2164","n_acc":"15","s_year":"1972-01-01","s_origin":"USA"}
+{"s_name":"toyota corolla 1600 (sw)","n_mpg":"27","n_cyls":"4","n_disp":"97","n_hp":"88","n_wlbs":"2100","n_acc":"16.5","s_year":"1972-01-01","s_origin":"Japan"}
+{"s_name":"buick century 350","n_mpg":"13","n_cyls":"8","n_disp":"350","n_hp":"175","n_wlbs":"4100","n_acc":"13","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"amc matador","n_mpg":"14","n_cyls":"8","n_disp":"304","n_hp":"150","n_wlbs":"3672","n_acc":"11.5","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"chevrolet malibu","n_mpg":"13","n_cyls":"8","n_disp":"350","n_hp":"145","n_wlbs":"3988","n_acc":"13","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"ford gran torino","n_mpg":"14","n_cyls":"8","n_disp":"302","n_hp":"137","n_wlbs":"4042","n_acc":"14.5","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"dodge coronet custom","n_mpg":"15","n_cyls":"8","n_disp":"318","n_hp":"150","n_wlbs":"3777","n_acc":"12.5","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"mercury marquis brougham","n_mpg":"12","n_cyls":"8","n_disp":"429","n_hp":"198","n_wlbs":"4952","n_acc":"11.5","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"chevrolet caprice classic","n_mpg":"13","n_cyls":"8","n_disp":"400","n_hp":"150","n_wlbs":"4464","n_acc":"12","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"ford ltd","n_mpg":"13","n_cyls":"8","n_disp":"351","n_hp":"158","n_wlbs":"4363","n_acc":"13","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"plymouth fury gran sedan","n_mpg":"14","n_cyls":"8","n_disp":"318","n_hp":"150","n_wlbs":"4237","n_acc":"14.5","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"chrysler new yorker brougham","n_mpg":"13","n_cyls":"8","n_disp":"440","n_hp":"215","n_wlbs":"4735","n_acc":"11","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"buick electra 225 custom","n_mpg":"12","n_cyls":"8","n_disp":"455","n_hp":"225","n_wlbs":"4951","n_acc":"11","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"amc ambassador brougham","n_mpg":"13","n_cyls":"8","n_disp":"360","n_hp":"175","n_wlbs":"3821","n_acc":"11","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"plymouth valiant","n_mpg":"18","n_cyls":"6","n_disp":"225","n_hp":"105","n_wlbs":"3121","n_acc":"16.5","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"chevrolet nova custom","n_mpg":"16","n_cyls":"6","n_disp":"250","n_hp":"100","n_wlbs":"3278","n_acc":"18","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"amc hornet","n_mpg":"18","n_cyls":"6","n_disp":"232","n_hp":"100","n_wlbs":"2945","n_acc":"16","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"ford maverick","n_mpg":"18","n_cyls":"6","n_disp":"250","n_hp":"88","n_wlbs":"3021","n_acc":"16.5","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"plymouth duster","n_mpg":"23","n_cyls":"6","n_disp":"198","n_hp":"95","n_wlbs":"2904","n_acc":"16","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"volkswagen super beetle","n_mpg":"26","n_cyls":"4","n_disp":"97","n_hp":"46","n_wlbs":"1950","n_acc":"21","s_year":"1973-01-01","s_origin":"Europe"}
+{"s_name":"chevrolet impala","n_mpg":"11","n_cyls":"8","n_disp":"400","n_hp":"150","n_wlbs":"4997","n_acc":"14","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"ford country","n_mpg":"12","n_cyls":"8","n_disp":"400","n_hp":"167","n_wlbs":"4906","n_acc":"12.5","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"plymouth custom suburb","n_mpg":"13","n_cyls":"8","n_disp":"360","n_hp":"170","n_wlbs":"4654","n_acc":"13","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"oldsmobile vista cruiser","n_mpg":"12","n_cyls":"8","n_disp":"350","n_hp":"180","n_wlbs":"4499","n_acc":"12.5","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"amc gremlin","n_mpg":"18","n_cyls":"6","n_disp":"232","n_hp":"100","n_wlbs":"2789","n_acc":"15","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"toyota carina","n_mpg":"20","n_cyls":"4","n_disp":"97","n_hp":"88","n_wlbs":"2279","n_acc":"19","s_year":"1973-01-01","s_origin":"Japan"}
+{"s_name":"chevrolet vega","n_mpg":"21","n_cyls":"4","n_disp":"140","n_hp":"72","n_wlbs":"2401","n_acc":"19.5","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"datsun 610","n_mpg":"22","n_cyls":"4","n_disp":"108","n_hp":"94","n_wlbs":"2379","n_acc":"16.5","s_year":"1973-01-01","s_origin":"Japan"}
+{"s_name":"maxda rx3","n_mpg":"18","n_cyls":"3","n_disp":"70","n_hp":"90","n_wlbs":"2124","n_acc":"13.5","s_year":"1973-01-01","s_origin":"Japan"}
+{"s_name":"ford pinto","n_mpg":"19","n_cyls":"4","n_disp":"122","n_hp":"85","n_wlbs":"2310","n_acc":"18.5","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"mercury capri v6","n_mpg":"21","n_cyls":"6","n_disp":"155","n_hp":"107","n_wlbs":"2472","n_acc":"14","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"fiat 124 sport coupe","n_mpg":"26","n_cyls":"4","n_disp":"98","n_hp":"90","n_wlbs":"2265","n_acc":"15.5","s_year":"1973-01-01","s_origin":"Europe"}
+{"s_name":"chevrolet monte carlo s","n_mpg":"15","n_cyls":"8","n_disp":"350","n_hp":"145","n_wlbs":"4082","n_acc":"13","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"pontiac grand prix","n_mpg":"16","n_cyls":"8","n_disp":"400","n_hp":"230","n_wlbs":"4278","n_acc":"9.5","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"fiat 128","n_mpg":"29","n_cyls":"4","n_disp":"68","n_hp":"49","n_wlbs":"1867","n_acc":"19.5","s_year":"1973-01-01","s_origin":"Europe"}
+{"s_name":"opel manta","n_mpg":"24","n_cyls":"4","n_disp":"116","n_hp":"75","n_wlbs":"2158","n_acc":"15.5","s_year":"1973-01-01","s_origin":"Europe"}
+{"s_name":"audi 100ls","n_mpg":"20","n_cyls":"4","n_disp":"114","n_hp":"91","n_wlbs":"2582","n_acc":"14","s_year":"1973-01-01","s_origin":"Europe"}
+{"s_name":"volvo 144ea","n_mpg":"19","n_cyls":"4","n_disp":"121","n_hp":"112","n_wlbs":"2868","n_acc":"15.5","s_year":"1973-01-01","s_origin":"Europe"}
+{"s_name":"dodge dart custom","n_mpg":"15","n_cyls":"8","n_disp":"318","n_hp":"150","n_wlbs":"3399","n_acc":"11","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"saab 99le","n_mpg":"24","n_cyls":"4","n_disp":"121","n_hp":"110","n_wlbs":"2660","n_acc":"14","s_year":"1973-01-01","s_origin":"Europe"}
+{"s_name":"toyota mark ii","n_mpg":"20","n_cyls":"6","n_disp":"156","n_hp":"122","n_wlbs":"2807","n_acc":"13.5","s_year":"1973-01-01","s_origin":"Japan"}
+{"s_name":"oldsmobile omega","n_mpg":"11","n_cyls":"8","n_disp":"350","n_hp":"180","n_wlbs":"3664","n_acc":"11","s_year":"1973-01-01","s_origin":"USA"}
+{"s_name":"plymouth duster","n_mpg":"20","n_cyls":"6","n_disp":"198","n_hp":"95","n_wlbs":"3102","n_acc":"16.5","s_year":"1974-01-01","s_origin":"USA"}
+{"s_name":"ford maverick","n_mpg":"21","n_cyls":"6","n_disp":"200","n_hp":"","n_wlbs":"2875","n_acc":"17","s_year":"1974-01-01","s_origin":"USA"}
+{"s_name":"amc hornet","n_mpg":"19","n_cyls":"6","n_disp":"232","n_hp":"100","n_wlbs":"2901","n_acc":"16","s_year":"1974-01-01","s_origin":"USA"}
+{"s_name":"chevrolet nova","n_mpg":"15","n_cyls":"6","n_disp":"250","n_hp":"100","n_wlbs":"3336","n_acc":"17","s_year":"1974-01-01","s_origin":"USA"}
+{"s_name":"datsun b210","n_mpg":"31","n_cyls":"4","n_disp":"79","n_hp":"67","n_wlbs":"1950","n_acc":"19","s_year":"1974-01-01","s_origin":"Japan"}
+{"s_name":"ford pinto","n_mpg":"26","n_cyls":"4","n_disp":"122","n_hp":"80","n_wlbs":"2451","n_acc":"16.5","s_year":"1974-01-01","s_origin":"USA"}
+{"s_name":"toyota corolla 1200","n_mpg":"32","n_cyls":"4","n_disp":"71","n_hp":"65","n_wlbs":"1836","n_acc":"21","s_year":"1974-01-01","s_origin":"Japan"}
+{"s_name":"chevrolet vega","n_mpg":"25","n_cyls":"4","n_disp":"140","n_hp":"75","n_wlbs":"2542","n_acc":"17","s_year":"1974-01-01","s_origin":"USA"}
+{"s_name":"chevrolet chevelle malibu classic","n_mpg":"16","n_cyls":"6","n_disp":"250","n_hp":"100","n_wlbs":"3781","n_acc":"17","s_year":"1974-01-01","s_origin":"USA"}
+{"s_name":"amc matador","n_mpg":"16","n_cyls":"6","n_disp":"258","n_hp":"110","n_wlbs":"3632","n_acc":"18","s_year":"1974-01-01","s_origin":"USA"}
+{"s_name":"plymouth satellite sebring","n_mpg":"18","n_cyls":"6","n_disp":"225","n_hp":"105","n_wlbs":"3613","n_acc":"16.5","s_year":"1974-01-01","s_origin":"USA"}
+{"s_name":"ford gran torino","n_mpg":"16","n_cyls":"8","n_disp":"302","n_hp":"140","n_wlbs":"4141","n_acc":"14","s_year":"1974-01-01","s_origin":"USA"}
+{"s_name":"buick century luxus (sw)","n_mpg":"13","n_cyls":"8","n_disp":"350","n_hp":"150","n_wlbs":"4699","n_acc":"14.5","s_year":"1974-01-01","s_origin":"USA"}
+{"s_name":"dodge coronet custom (sw)","n_mpg":"14","n_cyls":"8","n_disp":"318","n_hp":"150","n_wlbs":"4457","n_acc":"13.5","s_year":"1974-01-01","s_origin":"USA"}
+{"s_name":"ford gran torino (sw)","n_mpg":"14","n_cyls":"8","n_disp":"302","n_hp":"140","n_wlbs":"4638","n_acc":"16","s_year":"1974-01-01","s_origin":"USA"}
+{"s_name":"amc matador (sw)","n_mpg":"14","n_cyls":"8","n_disp":"304","n_hp":"150","n_wlbs":"4257","n_acc":"15.5","s_year":"1974-01-01","s_origin":"USA"}
+{"s_name":"audi fox","n_mpg":"29","n_cyls":"4","n_disp":"98","n_hp":"83","n_wlbs":"2219","n_acc":"16.5","s_year":"1974-01-01","s_origin":"Europe"}
+{"s_name":"volkswagen dasher","n_mpg":"26","n_cyls":"4","n_disp":"79","n_hp":"67","n_wlbs":"1963","n_acc":"15.5","s_year":"1974-01-01","s_origin":"Europe"}
+{"s_name":"opel manta","n_mpg":"26","n_cyls":"4","n_disp":"97","n_hp":"78","n_wlbs":"2300","n_acc":"14.5","s_year":"1974-01-01","s_origin":"Europe"}
+{"s_name":"toyota corona","n_mpg":"31","n_cyls":"4","n_disp":"76","n_hp":"52","n_wlbs":"1649","n_acc":"16.5","s_year":"1974-01-01","s_origin":"Japan"}
+{"s_name":"datsun 710","n_mpg":"32","n_cyls":"4","n_disp":"83","n_hp":"61","n_wlbs":"2003","n_acc":"19","s_year":"1974-01-01","s_origin":"Japan"}
+{"s_name":"dodge colt","n_mpg":"28","n_cyls":"4","n_disp":"90","n_hp":"75","n_wlbs":"2125","n_acc":"14.5","s_year":"1974-01-01","s_origin":"USA"}
+{"s_name":"fiat 128","n_mpg":"24","n_cyls":"4","n_disp":"90","n_hp":"75","n_wlbs":"2108","n_acc":"15.5","s_year":"1974-01-01","s_origin":"Europe"}
+{"s_name":"fiat 124 tc","n_mpg":"26","n_cyls":"4","n_disp":"116","n_hp":"75","n_wlbs":"2246","n_acc":"14","s_year":"1974-01-01","s_origin":"Europe"}
+{"s_name":"honda civic","n_mpg":"24","n_cyls":"4","n_disp":"120","n_hp":"97","n_wlbs":"2489","n_acc":"15","s_year":"1974-01-01","s_origin":"Japan"}
+{"s_name":"subaru","n_mpg":"26","n_cyls":"4","n_disp":"108","n_hp":"93","n_wlbs":"2391","n_acc":"15.5","s_year":"1974-01-01","s_origin":"Japan"}
+{"s_name":"fiat x1.9","n_mpg":"31","n_cyls":"4","n_disp":"79","n_hp":"67","n_wlbs":"2000","n_acc":"16","s_year":"1974-01-01","s_origin":"Europe"}
+{"s_name":"plymouth valiant custom","n_mpg":"19","n_cyls":"6","n_disp":"225","n_hp":"95","n_wlbs":"3264","n_acc":"16","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"chevrolet nova","n_mpg":"18","n_cyls":"6","n_disp":"250","n_hp":"105","n_wlbs":"3459","n_acc":"16","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"mercury monarch","n_mpg":"15","n_cyls":"6","n_disp":"250","n_hp":"72","n_wlbs":"3432","n_acc":"21","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"ford maverick","n_mpg":"15","n_cyls":"6","n_disp":"250","n_hp":"72","n_wlbs":"3158","n_acc":"19.5","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"pontiac catalina","n_mpg":"16","n_cyls":"8","n_disp":"400","n_hp":"170","n_wlbs":"4668","n_acc":"11.5","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"chevrolet bel air","n_mpg":"15","n_cyls":"8","n_disp":"350","n_hp":"145","n_wlbs":"4440","n_acc":"14","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"plymouth grand fury","n_mpg":"16","n_cyls":"8","n_disp":"318","n_hp":"150","n_wlbs":"4498","n_acc":"14.5","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"ford ltd","n_mpg":"14","n_cyls":"8","n_disp":"351","n_hp":"148","n_wlbs":"4657","n_acc":"13.5","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"buick century","n_mpg":"17","n_cyls":"6","n_disp":"231","n_hp":"110","n_wlbs":"3907","n_acc":"21","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"chevroelt chevelle malibu","n_mpg":"16","n_cyls":"6","n_disp":"250","n_hp":"105","n_wlbs":"3897","n_acc":"18.5","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"amc matador","n_mpg":"15","n_cyls":"6","n_disp":"258","n_hp":"110","n_wlbs":"3730","n_acc":"19","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"plymouth fury","n_mpg":"18","n_cyls":"6","n_disp":"225","n_hp":"95","n_wlbs":"3785","n_acc":"19","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"buick skyhawk","n_mpg":"21","n_cyls":"6","n_disp":"231","n_hp":"110","n_wlbs":"3039","n_acc":"15","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"chevrolet monza 2+2","n_mpg":"20","n_cyls":"8","n_disp":"262","n_hp":"110","n_wlbs":"3221","n_acc":"13.5","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"ford mustang ii","n_mpg":"13","n_cyls":"8","n_disp":"302","n_hp":"129","n_wlbs":"3169","n_acc":"12","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"toyota corolla","n_mpg":"29","n_cyls":"4","n_disp":"97","n_hp":"75","n_wlbs":"2171","n_acc":"16","s_year":"1975-01-01","s_origin":"Japan"}
+{"s_name":"ford pinto","n_mpg":"23","n_cyls":"4","n_disp":"140","n_hp":"83","n_wlbs":"2639","n_acc":"17","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"amc gremlin","n_mpg":"20","n_cyls":"6","n_disp":"232","n_hp":"100","n_wlbs":"2914","n_acc":"16","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"pontiac astro","n_mpg":"23","n_cyls":"4","n_disp":"140","n_hp":"78","n_wlbs":"2592","n_acc":"18.5","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"toyota corona","n_mpg":"24","n_cyls":"4","n_disp":"134","n_hp":"96","n_wlbs":"2702","n_acc":"13.5","s_year":"1975-01-01","s_origin":"Japan"}
+{"s_name":"volkswagen dasher","n_mpg":"25","n_cyls":"4","n_disp":"90","n_hp":"71","n_wlbs":"2223","n_acc":"16.5","s_year":"1975-01-01","s_origin":"Europe"}
+{"s_name":"datsun 710","n_mpg":"24","n_cyls":"4","n_disp":"119","n_hp":"97","n_wlbs":"2545","n_acc":"17","s_year":"1975-01-01","s_origin":"Japan"}
+{"s_name":"ford pinto","n_mpg":"18","n_cyls":"6","n_disp":"171","n_hp":"97","n_wlbs":"2984","n_acc":"14.5","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"volkswagen rabbit","n_mpg":"29","n_cyls":"4","n_disp":"90","n_hp":"70","n_wlbs":"1937","n_acc":"14","s_year":"1975-01-01","s_origin":"Europe"}
+{"s_name":"amc pacer","n_mpg":"19","n_cyls":"6","n_disp":"232","n_hp":"90","n_wlbs":"3211","n_acc":"17","s_year":"1975-01-01","s_origin":"USA"}
+{"s_name":"audi 100ls","n_mpg":"23","n_cyls":"4","n_disp":"115","n_hp":"95","n_wlbs":"2694","n_acc":"15","s_year":"1975-01-01","s_origin":"Europe"}
+{"s_name":"peugeot 504","n_mpg":"23","n_cyls":"4","n_disp":"120","n_hp":"88","n_wlbs":"2957","n_acc":"17","s_year":"1975-01-01","s_origin":"Europe"}
+{"s_name":"volvo 244dl","n_mpg":"22","n_cyls":"4","n_disp":"121","n_hp":"98","n_wlbs":"2945","n_acc":"14.5","s_year":"1975-01-01","s_origin":"Europe"}
+{"s_name":"saab 99le","n_mpg":"25","n_cyls":"4","n_disp":"121","n_hp":"115","n_wlbs":"2671","n_acc":"13.5","s_year":"1975-01-01","s_origin":"Europe"}
+{"s_name":"honda civic cvcc","n_mpg":"33","n_cyls":"4","n_disp":"91","n_hp":"53","n_wlbs":"1795","n_acc":"17.5","s_year":"1975-01-01","s_origin":"Japan"}
+{"s_name":"fiat 131","n_mpg":"28","n_cyls":"4","n_disp":"107","n_hp":"86","n_wlbs":"2464","n_acc":"15.5","s_year":"1976-01-01","s_origin":"Europe"}
+{"s_name":"opel 1900","n_mpg":"25","n_cyls":"4","n_disp":"116","n_hp":"81","n_wlbs":"2220","n_acc":"16.9","s_year":"1976-01-01","s_origin":"Europe"}
+{"s_name":"capri ii","n_mpg":"25","n_cyls":"4","n_disp":"140","n_hp":"92","n_wlbs":"2572","n_acc":"14.9","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"dodge colt","n_mpg":"26","n_cyls":"4","n_disp":"98","n_hp":"79","n_wlbs":"2255","n_acc":"17.7","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"renault 12tl","n_mpg":"27","n_cyls":"4","n_disp":"101","n_hp":"83","n_wlbs":"2202","n_acc":"15.3","s_year":"1976-01-01","s_origin":"Europe"}
+{"s_name":"chevrolet chevelle malibu classic","n_mpg":"17.5","n_cyls":"8","n_disp":"305","n_hp":"140","n_wlbs":"4215","n_acc":"13","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"dodge coronet brougham","n_mpg":"16","n_cyls":"8","n_disp":"318","n_hp":"150","n_wlbs":"4190","n_acc":"13","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"amc matador","n_mpg":"15.5","n_cyls":"8","n_disp":"304","n_hp":"120","n_wlbs":"3962","n_acc":"13.9","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"ford gran torino","n_mpg":"14.5","n_cyls":"8","n_disp":"351","n_hp":"152","n_wlbs":"4215","n_acc":"12.8","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"plymouth valiant","n_mpg":"22","n_cyls":"6","n_disp":"225","n_hp":"100","n_wlbs":"3233","n_acc":"15.4","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"chevrolet nova","n_mpg":"22","n_cyls":"6","n_disp":"250","n_hp":"105","n_wlbs":"3353","n_acc":"14.5","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"ford maverick","n_mpg":"24","n_cyls":"6","n_disp":"200","n_hp":"81","n_wlbs":"3012","n_acc":"17.6","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"amc hornet","n_mpg":"22.5","n_cyls":"6","n_disp":"232","n_hp":"90","n_wlbs":"3085","n_acc":"17.6","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"chevrolet chevette","n_mpg":"29","n_cyls":"4","n_disp":"85","n_hp":"52","n_wlbs":"2035","n_acc":"22.2","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"chevrolet woody","n_mpg":"24.5","n_cyls":"4","n_disp":"98","n_hp":"60","n_wlbs":"2164","n_acc":"22.1","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"vw rabbit","n_mpg":"29","n_cyls":"4","n_disp":"90","n_hp":"70","n_wlbs":"1937","n_acc":"14.2","s_year":"1976-01-01","s_origin":"Europe"}
+{"s_name":"honda civic","n_mpg":"33","n_cyls":"4","n_disp":"91","n_hp":"53","n_wlbs":"1795","n_acc":"17.4","s_year":"1976-01-01","s_origin":"Japan"}
+{"s_name":"dodge aspen se","n_mpg":"20","n_cyls":"6","n_disp":"225","n_hp":"100","n_wlbs":"3651","n_acc":"17.7","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"ford granada ghia","n_mpg":"18","n_cyls":"6","n_disp":"250","n_hp":"78","n_wlbs":"3574","n_acc":"21","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"pontiac ventura sj","n_mpg":"18.5","n_cyls":"6","n_disp":"250","n_hp":"110","n_wlbs":"3645","n_acc":"16.2","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"amc pacer d/l","n_mpg":"17.5","n_cyls":"6","n_disp":"258","n_hp":"95","n_wlbs":"3193","n_acc":"17.8","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"volkswagen rabbit","n_mpg":"29.5","n_cyls":"4","n_disp":"97","n_hp":"71","n_wlbs":"1825","n_acc":"12.2","s_year":"1976-01-01","s_origin":"Europe"}
+{"s_name":"datsun b-210","n_mpg":"32","n_cyls":"4","n_disp":"85","n_hp":"70","n_wlbs":"1990","n_acc":"17","s_year":"1976-01-01","s_origin":"Japan"}
+{"s_name":"toyota corolla","n_mpg":"28","n_cyls":"4","n_disp":"97","n_hp":"75","n_wlbs":"2155","n_acc":"16.4","s_year":"1976-01-01","s_origin":"Japan"}
+{"s_name":"ford pinto","n_mpg":"26.5","n_cyls":"4","n_disp":"140","n_hp":"72","n_wlbs":"2565","n_acc":"13.6","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"volvo 245","n_mpg":"20","n_cyls":"4","n_disp":"130","n_hp":"102","n_wlbs":"3150","n_acc":"15.7","s_year":"1976-01-01","s_origin":"Europe"}
+{"s_name":"plymouth volare premier v8","n_mpg":"13","n_cyls":"8","n_disp":"318","n_hp":"150","n_wlbs":"3940","n_acc":"13.2","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"peugeot 504","n_mpg":"19","n_cyls":"4","n_disp":"120","n_hp":"88","n_wlbs":"3270","n_acc":"21.9","s_year":"1976-01-01","s_origin":"Europe"}
+{"s_name":"toyota mark ii","n_mpg":"19","n_cyls":"6","n_disp":"156","n_hp":"108","n_wlbs":"2930","n_acc":"15.5","s_year":"1976-01-01","s_origin":"Japan"}
+{"s_name":"mercedes-benz 280s","n_mpg":"16.5","n_cyls":"6","n_disp":"168","n_hp":"120","n_wlbs":"3820","n_acc":"16.7","s_year":"1976-01-01","s_origin":"Europe"}
+{"s_name":"cadillac seville","n_mpg":"16.5","n_cyls":"8","n_disp":"350","n_hp":"180","n_wlbs":"4380","n_acc":"12.1","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"chevy c10","n_mpg":"13","n_cyls":"8","n_disp":"350","n_hp":"145","n_wlbs":"4055","n_acc":"12","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"ford f108","n_mpg":"13","n_cyls":"8","n_disp":"302","n_hp":"130","n_wlbs":"3870","n_acc":"15","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"dodge d100","n_mpg":"13","n_cyls":"8","n_disp":"318","n_hp":"150","n_wlbs":"3755","n_acc":"14","s_year":"1976-01-01","s_origin":"USA"}
+{"s_name":"honda Accelerationord cvcc","n_mpg":"31.5","n_cyls":"4","n_disp":"98","n_hp":"68","n_wlbs":"2045","n_acc":"18.5","s_year":"1977-01-01","s_origin":"Japan"}
+{"s_name":"buick opel isuzu deluxe","n_mpg":"30","n_cyls":"4","n_disp":"111","n_hp":"80","n_wlbs":"2155","n_acc":"14.8","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"renault 5 gtl","n_mpg":"36","n_cyls":"4","n_disp":"79","n_hp":"58","n_wlbs":"1825","n_acc":"18.6","s_year":"1977-01-01","s_origin":"Europe"}
+{"s_name":"plymouth arrow gs","n_mpg":"25.5","n_cyls":"4","n_disp":"122","n_hp":"96","n_wlbs":"2300","n_acc":"15.5","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"datsun f-10 hatchback","n_mpg":"33.5","n_cyls":"4","n_disp":"85","n_hp":"70","n_wlbs":"1945","n_acc":"16.8","s_year":"1977-01-01","s_origin":"Japan"}
+{"s_name":"chevrolet caprice classic","n_mpg":"17.5","n_cyls":"8","n_disp":"305","n_hp":"145","n_wlbs":"3880","n_acc":"12.5","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"oldsmobile cutlass supreme","n_mpg":"17","n_cyls":"8","n_disp":"260","n_hp":"110","n_wlbs":"4060","n_acc":"19","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"dodge monaco brougham","n_mpg":"15.5","n_cyls":"8","n_disp":"318","n_hp":"145","n_wlbs":"4140","n_acc":"13.7","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"mercury cougar brougham","n_mpg":"15","n_cyls":"8","n_disp":"302","n_hp":"130","n_wlbs":"4295","n_acc":"14.9","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"chevrolet concours","n_mpg":"17.5","n_cyls":"6","n_disp":"250","n_hp":"110","n_wlbs":"3520","n_acc":"16.4","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"buick skylark","n_mpg":"20.5","n_cyls":"6","n_disp":"231","n_hp":"105","n_wlbs":"3425","n_acc":"16.9","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"plymouth volare custom","n_mpg":"19","n_cyls":"6","n_disp":"225","n_hp":"100","n_wlbs":"3630","n_acc":"17.7","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"ford granada","n_mpg":"18.5","n_cyls":"6","n_disp":"250","n_hp":"98","n_wlbs":"3525","n_acc":"19","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"pontiac grand prix lj","n_mpg":"16","n_cyls":"8","n_disp":"400","n_hp":"180","n_wlbs":"4220","n_acc":"11.1","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"chevrolet monte carlo landau","n_mpg":"15.5","n_cyls":"8","n_disp":"350","n_hp":"170","n_wlbs":"4165","n_acc":"11.4","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"chrysler cordoba","n_mpg":"15.5","n_cyls":"8","n_disp":"400","n_hp":"190","n_wlbs":"4325","n_acc":"12.2","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"ford thunderbird","n_mpg":"16","n_cyls":"8","n_disp":"351","n_hp":"149","n_wlbs":"4335","n_acc":"14.5","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"volkswagen rabbit custom","n_mpg":"29","n_cyls":"4","n_disp":"97","n_hp":"78","n_wlbs":"1940","n_acc":"14.5","s_year":"1977-01-01","s_origin":"Europe"}
+{"s_name":"pontiac sunbird coupe","n_mpg":"24.5","n_cyls":"4","n_disp":"151","n_hp":"88","n_wlbs":"2740","n_acc":"16","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"toyota corolla liftback","n_mpg":"26","n_cyls":"4","n_disp":"97","n_hp":"75","n_wlbs":"2265","n_acc":"18.2","s_year":"1977-01-01","s_origin":"Japan"}
+{"s_name":"ford mustang ii 2+2","n_mpg":"25.5","n_cyls":"4","n_disp":"140","n_hp":"89","n_wlbs":"2755","n_acc":"15.8","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"chevrolet chevette","n_mpg":"30.5","n_cyls":"4","n_disp":"98","n_hp":"63","n_wlbs":"2051","n_acc":"17","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"dodge colt m/m","n_mpg":"33.5","n_cyls":"4","n_disp":"98","n_hp":"83","n_wlbs":"2075","n_acc":"15.9","s_year":"1977-01-01","s_origin":"USA"}
+{"s_name":"subaru dl","n_mpg":"30","n_cyls":"4","n_disp":"97","n_hp":"67","n_wlbs":"1985","n_acc":"16.4","s_year":"1977-01-01","s_origin":"Japan"}
+{"s_name":"volkswagen dasher","n_mpg":"30.5","n_cyls":"4","n_disp":"97","n_hp":"78","n_wlbs":"2190","n_acc":"14.1","s_year":"1977-01-01","s_origin":"Europe"}
+{"s_name":"datsun 810","n_mpg":"22","n_cyls":"6","n_disp":"146","n_hp":"97","n_wlbs":"2815","n_acc":"14.5","s_year":"1977-01-01","s_origin":"Japan"}
+{"s_name":"bmw 320i","n_mpg":"21.5","n_cyls":"4","n_disp":"121","n_hp":"110","n_wlbs":"2600","n_acc":"12.8","s_year":"1977-01-01","s_origin":"Europe"}
+{"s_name":"mazda rx-4","n_mpg":"21.5","n_cyls":"3","n_disp":"80","n_hp":"110","n_wlbs":"2720","n_acc":"13.5","s_year":"1977-01-01","s_origin":"Japan"}
+{"s_name":"volkswagen rabbit custom diesel","n_mpg":"43.1","n_cyls":"4","n_disp":"90","n_hp":"48","n_wlbs":"1985","n_acc":"21.5","s_year":"1978-01-01","s_origin":"Europe"}
+{"s_name":"ford fiesta","n_mpg":"36.1","n_cyls":"4","n_disp":"98","n_hp":"66","n_wlbs":"1800","n_acc":"14.4","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"mazda glc deluxe","n_mpg":"32.8","n_cyls":"4","n_disp":"78","n_hp":"52","n_wlbs":"1985","n_acc":"19.4","s_year":"1978-01-01","s_origin":"Japan"}
+{"s_name":"datsun b210 gx","n_mpg":"39.4","n_cyls":"4","n_disp":"85","n_hp":"70","n_wlbs":"2070","n_acc":"18.6","s_year":"1978-01-01","s_origin":"Japan"}
+{"s_name":"honda civic cvcc","n_mpg":"36.1","n_cyls":"4","n_disp":"91","n_hp":"60","n_wlbs":"1800","n_acc":"16.4","s_year":"1978-01-01","s_origin":"Japan"}
+{"s_name":"oldsmobile cutlass salon brougham","n_mpg":"19.9","n_cyls":"8","n_disp":"260","n_hp":"110","n_wlbs":"3365","n_acc":"15.5","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"dodge diplomat","n_mpg":"19.4","n_cyls":"8","n_disp":"318","n_hp":"140","n_wlbs":"3735","n_acc":"13.2","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"mercury monarch ghia","n_mpg":"20.2","n_cyls":"8","n_disp":"302","n_hp":"139","n_wlbs":"3570","n_acc":"12.8","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"pontiac phoenix lj","n_mpg":"19.2","n_cyls":"6","n_disp":"231","n_hp":"105","n_wlbs":"3535","n_acc":"19.2","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"chevrolet malibu","n_mpg":"20.5","n_cyls":"6","n_disp":"200","n_hp":"95","n_wlbs":"3155","n_acc":"18.2","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"ford fairmont (auto)","n_mpg":"20.2","n_cyls":"6","n_disp":"200","n_hp":"85","n_wlbs":"2965","n_acc":"15.8","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"ford fairmont (man)","n_mpg":"25.1","n_cyls":"4","n_disp":"140","n_hp":"88","n_wlbs":"2720","n_acc":"15.4","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"plymouth volare","n_mpg":"20.5","n_cyls":"6","n_disp":"225","n_hp":"100","n_wlbs":"3430","n_acc":"17.2","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"amc concord","n_mpg":"19.4","n_cyls":"6","n_disp":"232","n_hp":"90","n_wlbs":"3210","n_acc":"17.2","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"buick century special","n_mpg":"20.6","n_cyls":"6","n_disp":"231","n_hp":"105","n_wlbs":"3380","n_acc":"15.8","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"mercury zephyr","n_mpg":"20.8","n_cyls":"6","n_disp":"200","n_hp":"85","n_wlbs":"3070","n_acc":"16.7","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"dodge aspen","n_mpg":"18.6","n_cyls":"6","n_disp":"225","n_hp":"110","n_wlbs":"3620","n_acc":"18.7","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"amc concord d/l","n_mpg":"18.1","n_cyls":"6","n_disp":"258","n_hp":"120","n_wlbs":"3410","n_acc":"15.1","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"chevrolet monte carlo landau","n_mpg":"19.2","n_cyls":"8","n_disp":"305","n_hp":"145","n_wlbs":"3425","n_acc":"13.2","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"buick regal sport coupe (turbo)","n_mpg":"17.7","n_cyls":"6","n_disp":"231","n_hp":"165","n_wlbs":"3445","n_acc":"13.4","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"ford futura","n_mpg":"18.1","n_cyls":"8","n_disp":"302","n_hp":"139","n_wlbs":"3205","n_acc":"11.2","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"dodge magnum xe","n_mpg":"17.5","n_cyls":"8","n_disp":"318","n_hp":"140","n_wlbs":"4080","n_acc":"13.7","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"chevrolet chevette","n_mpg":"30","n_cyls":"4","n_disp":"98","n_hp":"68","n_wlbs":"2155","n_acc":"16.5","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"toyota corona","n_mpg":"27.5","n_cyls":"4","n_disp":"134","n_hp":"95","n_wlbs":"2560","n_acc":"14.2","s_year":"1978-01-01","s_origin":"Japan"}
+{"s_name":"datsun 510","n_mpg":"27.2","n_cyls":"4","n_disp":"119","n_hp":"97","n_wlbs":"2300","n_acc":"14.7","s_year":"1978-01-01","s_origin":"Japan"}
+{"s_name":"dodge omni","n_mpg":"30.9","n_cyls":"4","n_disp":"105","n_hp":"75","n_wlbs":"2230","n_acc":"14.5","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"toyota celica gt liftback","n_mpg":"21.1","n_cyls":"4","n_disp":"134","n_hp":"95","n_wlbs":"2515","n_acc":"14.8","s_year":"1978-01-01","s_origin":"Japan"}
+{"s_name":"plymouth sapporo","n_mpg":"23.2","n_cyls":"4","n_disp":"156","n_hp":"105","n_wlbs":"2745","n_acc":"16.7","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"oldsmobile starfire sx","n_mpg":"23.8","n_cyls":"4","n_disp":"151","n_hp":"85","n_wlbs":"2855","n_acc":"17.6","s_year":"1978-01-01","s_origin":"USA"}
+{"s_name":"datsun 200-sx","n_mpg":"23.9","n_cyls":"4","n_disp":"119","n_hp":"97","n_wlbs":"2405","n_acc":"14.9","s_year":"1978-01-01","s_origin":"Japan"}
+{"s_name":"audi 5000","n_mpg":"20.3","n_cyls":"5","n_disp":"131","n_hp":"103","n_wlbs":"2830","n_acc":"15.9","s_year":"1978-01-01","s_origin":"Europe"}
+{"s_name":"volvo 264gl","n_mpg":"17","n_cyls":"6","n_disp":"163","n_hp":"125","n_wlbs":"3140","n_acc":"13.6","s_year":"1978-01-01","s_origin":"Europe"}
+{"s_name":"saab 99gle","n_mpg":"21.6","n_cyls":"4","n_disp":"121","n_hp":"115","n_wlbs":"2795","n_acc":"15.7","s_year":"1978-01-01","s_origin":"Europe"}
+{"s_name":"peugeot 604sl","n_mpg":"16.2","n_cyls":"6","n_disp":"163","n_hp":"133","n_wlbs":"3410","n_acc":"15.8","s_year":"1978-01-01","s_origin":"Europe"}
+{"s_name":"volkswagen scirocco","n_mpg":"31.5","n_cyls":"4","n_disp":"89","n_hp":"71","n_wlbs":"1990","n_acc":"14.9","s_year":"1978-01-01","s_origin":"Europe"}
+{"s_name":"honda Accelerationord lx","n_mpg":"29.5","n_cyls":"4","n_disp":"98","n_hp":"68","n_wlbs":"2135","n_acc":"16.6","s_year":"1978-01-01","s_origin":"Japan"}
+{"s_name":"pontiac lemans v6","n_mpg":"21.5","n_cyls":"6","n_disp":"231","n_hp":"115","n_wlbs":"3245","n_acc":"15.4","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"mercury zephyr 6","n_mpg":"19.8","n_cyls":"6","n_disp":"200","n_hp":"85","n_wlbs":"2990","n_acc":"18.2","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"ford fairmont 4","n_mpg":"22.3","n_cyls":"4","n_disp":"140","n_hp":"88","n_wlbs":"2890","n_acc":"17.3","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"amc concord dl 6","n_mpg":"20.2","n_cyls":"6","n_disp":"232","n_hp":"90","n_wlbs":"3265","n_acc":"18.2","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"dodge aspen 6","n_mpg":"20.6","n_cyls":"6","n_disp":"225","n_hp":"110","n_wlbs":"3360","n_acc":"16.6","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"chevrolet caprice classic","n_mpg":"17","n_cyls":"8","n_disp":"305","n_hp":"130","n_wlbs":"3840","n_acc":"15.4","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"ford ltd landau","n_mpg":"17.6","n_cyls":"8","n_disp":"302","n_hp":"129","n_wlbs":"3725","n_acc":"13.4","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"mercury grand marquis","n_mpg":"16.5","n_cyls":"8","n_disp":"351","n_hp":"138","n_wlbs":"3955","n_acc":"13.2","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"dodge st. regis","n_mpg":"18.2","n_cyls":"8","n_disp":"318","n_hp":"135","n_wlbs":"3830","n_acc":"15.2","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"buick estate wagon (sw)","n_mpg":"16.9","n_cyls":"8","n_disp":"350","n_hp":"155","n_wlbs":"4360","n_acc":"14.9","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"ford country squire (sw)","n_mpg":"15.5","n_cyls":"8","n_disp":"351","n_hp":"142","n_wlbs":"4054","n_acc":"14.3","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"chevrolet malibu classic (sw)","n_mpg":"19.2","n_cyls":"8","n_disp":"267","n_hp":"125","n_wlbs":"3605","n_acc":"15","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"chrysler lebaron town @ country (sw)","n_mpg":"18.5","n_cyls":"8","n_disp":"360","n_hp":"150","n_wlbs":"3940","n_acc":"13","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"vw rabbit custom","n_mpg":"31.9","n_cyls":"4","n_disp":"89","n_hp":"71","n_wlbs":"1925","n_acc":"14","s_year":"1979-01-01","s_origin":"Europe"}
+{"s_name":"maxda glc deluxe","n_mpg":"34.1","n_cyls":"4","n_disp":"86","n_hp":"65","n_wlbs":"1975","n_acc":"15.2","s_year":"1979-01-01","s_origin":"Japan"}
+{"s_name":"dodge colt hatchback custom","n_mpg":"35.7","n_cyls":"4","n_disp":"98","n_hp":"80","n_wlbs":"1915","n_acc":"14.4","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"amc spirit dl","n_mpg":"27.4","n_cyls":"4","n_disp":"121","n_hp":"80","n_wlbs":"2670","n_acc":"15","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"mercedes benz 300d","n_mpg":"25.4","n_cyls":"5","n_disp":"183","n_hp":"77","n_wlbs":"3530","n_acc":"20.1","s_year":"1979-01-01","s_origin":"Europe"}
+{"s_name":"cadillac eldorado","n_mpg":"23","n_cyls":"8","n_disp":"350","n_hp":"125","n_wlbs":"3900","n_acc":"17.4","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"peugeot 504","n_mpg":"27.2","n_cyls":"4","n_disp":"141","n_hp":"71","n_wlbs":"3190","n_acc":"24.8","s_year":"1979-01-01","s_origin":"Europe"}
+{"s_name":"oldsmobile cutlass salon brougham","n_mpg":"23.9","n_cyls":"8","n_disp":"260","n_hp":"90","n_wlbs":"3420","n_acc":"22.2","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"plymouth horizon","n_mpg":"34.2","n_cyls":"4","n_disp":"105","n_hp":"70","n_wlbs":"2200","n_acc":"13.2","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"plymouth horizon tc3","n_mpg":"34.5","n_cyls":"4","n_disp":"105","n_hp":"70","n_wlbs":"2150","n_acc":"14.9","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"datsun 210","n_mpg":"31.8","n_cyls":"4","n_disp":"85","n_hp":"65","n_wlbs":"2020","n_acc":"19.2","s_year":"1979-01-01","s_origin":"Japan"}
+{"s_name":"fiat strada custom","n_mpg":"37.3","n_cyls":"4","n_disp":"91","n_hp":"69","n_wlbs":"2130","n_acc":"14.7","s_year":"1979-01-01","s_origin":"Europe"}
+{"s_name":"buick skylark limited","n_mpg":"28.4","n_cyls":"4","n_disp":"151","n_hp":"90","n_wlbs":"2670","n_acc":"16","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"chevrolet citation","n_mpg":"28.8","n_cyls":"6","n_disp":"173","n_hp":"115","n_wlbs":"2595","n_acc":"11.3","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"oldsmobile omega brougham","n_mpg":"26.8","n_cyls":"6","n_disp":"173","n_hp":"115","n_wlbs":"2700","n_acc":"12.9","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"pontiac phoenix","n_mpg":"33.5","n_cyls":"4","n_disp":"151","n_hp":"90","n_wlbs":"2556","n_acc":"13.2","s_year":"1979-01-01","s_origin":"USA"}
+{"s_name":"vw rabbit","n_mpg":"41.5","n_cyls":"4","n_disp":"98","n_hp":"76","n_wlbs":"2144","n_acc":"14.7","s_year":"1980-01-01","s_origin":"Europe"}
+{"s_name":"toyota corolla tercel","n_mpg":"38.1","n_cyls":"4","n_disp":"89","n_hp":"60","n_wlbs":"1968","n_acc":"18.8","s_year":"1980-01-01","s_origin":"Japan"}
+{"s_name":"chevrolet chevette","n_mpg":"32.1","n_cyls":"4","n_disp":"98","n_hp":"70","n_wlbs":"2120","n_acc":"15.5","s_year":"1980-01-01","s_origin":"USA"}
+{"s_name":"datsun 310","n_mpg":"37.2","n_cyls":"4","n_disp":"86","n_hp":"65","n_wlbs":"2019","n_acc":"16.4","s_year":"1980-01-01","s_origin":"Japan"}
+{"s_name":"chevrolet citation","n_mpg":"28","n_cyls":"4","n_disp":"151","n_hp":"90","n_wlbs":"2678","n_acc":"16.5","s_year":"1980-01-01","s_origin":"USA"}
+{"s_name":"ford fairmont","n_mpg":"26.4","n_cyls":"4","n_disp":"140","n_hp":"88","n_wlbs":"2870","n_acc":"18.1","s_year":"1980-01-01","s_origin":"USA"}
+{"s_name":"amc concord","n_mpg":"24.3","n_cyls":"4","n_disp":"151","n_hp":"90","n_wlbs":"3003","n_acc":"20.1","s_year":"1980-01-01","s_origin":"USA"}
+{"s_name":"dodge aspen","n_mpg":"19.1","n_cyls":"6","n_disp":"225","n_hp":"90","n_wlbs":"3381","n_acc":"18.7","s_year":"1980-01-01","s_origin":"USA"}
+{"s_name":"audi 4000","n_mpg":"34.3","n_cyls":"4","n_disp":"97","n_hp":"78","n_wlbs":"2188","n_acc":"15.8","s_year":"1980-01-01","s_origin":"Europe"}
+{"s_name":"toyota corona liftback","n_mpg":"29.8","n_cyls":"4","n_disp":"134","n_hp":"90","n_wlbs":"2711","n_acc":"15.5","s_year":"1980-01-01","s_origin":"Japan"}
+{"s_name":"mazda 626","n_mpg":"31.3","n_cyls":"4","n_disp":"120","n_hp":"75","n_wlbs":"2542","n_acc":"17.5","s_year":"1980-01-01","s_origin":"Japan"}
+{"s_name":"datsun 510 hatchback","n_mpg":"37","n_cyls":"4","n_disp":"119","n_hp":"92","n_wlbs":"2434","n_acc":"15","s_year":"1980-01-01","s_origin":"Japan"}
+{"s_name":"toyota corolla","n_mpg":"32.2","n_cyls":"4","n_disp":"108","n_hp":"75","n_wlbs":"2265","n_acc":"15.2","s_year":"1980-01-01","s_origin":"Japan"}
+{"s_name":"mazda glc","n_mpg":"46.6","n_cyls":"4","n_disp":"86","n_hp":"65","n_wlbs":"2110","n_acc":"17.9","s_year":"1980-01-01","s_origin":"Japan"}
+{"s_name":"dodge colt","n_mpg":"27.9","n_cyls":"4","n_disp":"156","n_hp":"105","n_wlbs":"2800","n_acc":"14.4","s_year":"1980-01-01","s_origin":"USA"}
+{"s_name":"datsun 210","n_mpg":"40.8","n_cyls":"4","n_disp":"85","n_hp":"65","n_wlbs":"2110","n_acc":"19.2","s_year":"1980-01-01","s_origin":"Japan"}
+{"s_name":"vw rabbit c (diesel)","n_mpg":"44.3","n_cyls":"4","n_disp":"90","n_hp":"48","n_wlbs":"2085","n_acc":"21.7","s_year":"1980-01-01","s_origin":"Europe"}
+{"s_name":"vw dasher (diesel)","n_mpg":"43.4","n_cyls":"4","n_disp":"90","n_hp":"48","n_wlbs":"2335","n_acc":"23.7","s_year":"1980-01-01","s_origin":"Europe"}
+{"s_name":"audi 5000s (diesel)","n_mpg":"36.4","n_cyls":"5","n_disp":"121","n_hp":"67","n_wlbs":"2950","n_acc":"19.9","s_year":"1980-01-01","s_origin":"Europe"}
+{"s_name":"mercedes-benz 240d","n_mpg":"30","n_cyls":"4","n_disp":"146","n_hp":"67","n_wlbs":"3250","n_acc":"21.8","s_year":"1980-01-01","s_origin":"Europe"}
+{"s_name":"honda civic 1500 gl","n_mpg":"44.6","n_cyls":"4","n_disp":"91","n_hp":"67","n_wlbs":"1850","n_acc":"13.8","s_year":"1980-01-01","s_origin":"Japan"}
+{"s_name":"renault lecar deluxe","n_mpg":"40.9","n_cyls":"4","n_disp":"85","n_hp":"","n_wlbs":"1835","n_acc":"17.3","s_year":"1980-01-01","s_origin":"Europe"}
+{"s_name":"subaru dl","n_mpg":"33.8","n_cyls":"4","n_disp":"97","n_hp":"67","n_wlbs":"2145","n_acc":"18","s_year":"1980-01-01","s_origin":"Japan"}
+{"s_name":"vokswagen rabbit","n_mpg":"29.8","n_cyls":"4","n_disp":"89","n_hp":"62","n_wlbs":"1845","n_acc":"15.3","s_year":"1980-01-01","s_origin":"Europe"}
+{"s_name":"datsun 280-zx","n_mpg":"32.7","n_cyls":"6","n_disp":"168","n_hp":"132","n_wlbs":"2910","n_acc":"11.4","s_year":"1980-01-01","s_origin":"Japan"}
+{"s_name":"mazda rx-7 gs","n_mpg":"23.7","n_cyls":"3","n_disp":"70","n_hp":"100","n_wlbs":"2420","n_acc":"12.5","s_year":"1980-01-01","s_origin":"Japan"}
+{"s_name":"triumph tr7 coupe","n_mpg":"35","n_cyls":"4","n_disp":"122","n_hp":"88","n_wlbs":"2500","n_acc":"15.1","s_year":"1980-01-01","s_origin":"Europe"}
+{"s_name":"ford mustang cobra","n_mpg":"23.6","n_cyls":"4","n_disp":"140","n_hp":"","n_wlbs":"2905","n_acc":"14.3","s_year":"1980-01-01","s_origin":"USA"}
+{"s_name":"honda Accelerationord","n_mpg":"32.4","n_cyls":"4","n_disp":"107","n_hp":"72","n_wlbs":"2290","n_acc":"17","s_year":"1980-01-01","s_origin":"Japan"}
+{"s_name":"plymouth reliant","n_mpg":"27.2","n_cyls":"4","n_disp":"135","n_hp":"84","n_wlbs":"2490","n_acc":"15.7","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"buick skylark","n_mpg":"26.6","n_cyls":"4","n_disp":"151","n_hp":"84","n_wlbs":"2635","n_acc":"16.4","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"dodge aries wagon (sw)","n_mpg":"25.8","n_cyls":"4","n_disp":"156","n_hp":"92","n_wlbs":"2620","n_acc":"14.4","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"chevrolet citation","n_mpg":"23.5","n_cyls":"6","n_disp":"173","n_hp":"110","n_wlbs":"2725","n_acc":"12.6","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"plymouth reliant","n_mpg":"30","n_cyls":"4","n_disp":"135","n_hp":"84","n_wlbs":"2385","n_acc":"12.9","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"toyota starlet","n_mpg":"39.1","n_cyls":"4","n_disp":"79","n_hp":"58","n_wlbs":"1755","n_acc":"16.9","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"plymouth champ","n_mpg":"39","n_cyls":"4","n_disp":"86","n_hp":"64","n_wlbs":"1875","n_acc":"16.4","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"honda civic 1300","n_mpg":"35.1","n_cyls":"4","n_disp":"81","n_hp":"60","n_wlbs":"1760","n_acc":"16.1","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"subaru","n_mpg":"32.3","n_cyls":"4","n_disp":"97","n_hp":"67","n_wlbs":"2065","n_acc":"17.8","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"datsun 210","n_mpg":"37","n_cyls":"4","n_disp":"85","n_hp":"65","n_wlbs":"1975","n_acc":"19.4","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"toyota tercel","n_mpg":"37.7","n_cyls":"4","n_disp":"89","n_hp":"62","n_wlbs":"2050","n_acc":"17.3","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"mazda glc 4","n_mpg":"34.1","n_cyls":"4","n_disp":"91","n_hp":"68","n_wlbs":"1985","n_acc":"16","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"plymouth horizon 4","n_mpg":"34.7","n_cyls":"4","n_disp":"105","n_hp":"63","n_wlbs":"2215","n_acc":"14.9","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"ford escort 4w","n_mpg":"34.4","n_cyls":"4","n_disp":"98","n_hp":"65","n_wlbs":"2045","n_acc":"16.2","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"ford escort 2h","n_mpg":"29.9","n_cyls":"4","n_disp":"98","n_hp":"65","n_wlbs":"2380","n_acc":"20.7","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"volkswagen jetta","n_mpg":"33","n_cyls":"4","n_disp":"105","n_hp":"74","n_wlbs":"2190","n_acc":"14.2","s_year":"1982-01-01","s_origin":"Europe"}
+{"s_name":"renault 18i","n_mpg":"34.5","n_cyls":"4","n_disp":"100","n_hp":"","n_wlbs":"2320","n_acc":"15.8","s_year":"1982-01-01","s_origin":"Europe"}
+{"s_name":"honda prelude","n_mpg":"33.7","n_cyls":"4","n_disp":"107","n_hp":"75","n_wlbs":"2210","n_acc":"14.4","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"toyota corolla","n_mpg":"32.4","n_cyls":"4","n_disp":"108","n_hp":"75","n_wlbs":"2350","n_acc":"16.8","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"datsun 200sx","n_mpg":"32.9","n_cyls":"4","n_disp":"119","n_hp":"100","n_wlbs":"2615","n_acc":"14.8","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"mazda 626","n_mpg":"31.6","n_cyls":"4","n_disp":"120","n_hp":"74","n_wlbs":"2635","n_acc":"18.3","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"peugeot 505s turbo diesel","n_mpg":"28.1","n_cyls":"4","n_disp":"141","n_hp":"80","n_wlbs":"3230","n_acc":"20.4","s_year":"1982-01-01","s_origin":"Europe"}
+{"s_name":"saab 900s","n_mpg":"","n_cyls":"4","n_disp":"121","n_hp":"110","n_wlbs":"2800","n_acc":"15.4","s_year":"1982-01-01","s_origin":"Europe"}
+{"s_name":"volvo diesel","n_mpg":"30.7","n_cyls":"6","n_disp":"145","n_hp":"76","n_wlbs":"3160","n_acc":"19.6","s_year":"1982-01-01","s_origin":"Europe"}
+{"s_name":"toyota cressida","n_mpg":"25.4","n_cyls":"6","n_disp":"168","n_hp":"116","n_wlbs":"2900","n_acc":"12.6","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"datsun 810 maxima","n_mpg":"24.2","n_cyls":"6","n_disp":"146","n_hp":"120","n_wlbs":"2930","n_acc":"13.8","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"buick century","n_mpg":"22.4","n_cyls":"6","n_disp":"231","n_hp":"110","n_wlbs":"3415","n_acc":"15.8","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"oldsmobile cutlass ls","n_mpg":"26.6","n_cyls":"8","n_disp":"350","n_hp":"105","n_wlbs":"3725","n_acc":"19","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"ford granada gl","n_mpg":"20.2","n_cyls":"6","n_disp":"200","n_hp":"88","n_wlbs":"3060","n_acc":"17.1","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"chrysler lebaron salon","n_mpg":"17.6","n_cyls":"6","n_disp":"225","n_hp":"85","n_wlbs":"3465","n_acc":"16.6","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"chevrolet cavalier","n_mpg":"28","n_cyls":"4","n_disp":"112","n_hp":"88","n_wlbs":"2605","n_acc":"19.6","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"chevrolet cavalier wagon","n_mpg":"27","n_cyls":"4","n_disp":"112","n_hp":"88","n_wlbs":"2640","n_acc":"18.6","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"chevrolet cavalier 2-door","n_mpg":"34","n_cyls":"4","n_disp":"112","n_hp":"88","n_wlbs":"2395","n_acc":"18","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"pontiac j2000 se hatchback","n_mpg":"31","n_cyls":"4","n_disp":"112","n_hp":"85","n_wlbs":"2575","n_acc":"16.2","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"dodge aries se","n_mpg":"29","n_cyls":"4","n_disp":"135","n_hp":"84","n_wlbs":"2525","n_acc":"16","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"pontiac phoenix","n_mpg":"27","n_cyls":"4","n_disp":"151","n_hp":"90","n_wlbs":"2735","n_acc":"18","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"ford fairmont futura","n_mpg":"24","n_cyls":"4","n_disp":"140","n_hp":"92","n_wlbs":"2865","n_acc":"16.4","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"amc concord dl","n_mpg":"23","n_cyls":"4","n_disp":"151","n_hp":"","n_wlbs":"3035","n_acc":"20.5","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"volkswagen rabbit l","n_mpg":"36","n_cyls":"4","n_disp":"105","n_hp":"74","n_wlbs":"1980","n_acc":"15.3","s_year":"1982-01-01","s_origin":"Europe"}
+{"s_name":"mazda glc custom l","n_mpg":"37","n_cyls":"4","n_disp":"91","n_hp":"68","n_wlbs":"2025","n_acc":"18.2","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"mazda glc custom","n_mpg":"31","n_cyls":"4","n_disp":"91","n_hp":"68","n_wlbs":"1970","n_acc":"17.6","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"plymouth horizon miser","n_mpg":"38","n_cyls":"4","n_disp":"105","n_hp":"63","n_wlbs":"2125","n_acc":"14.7","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"mercury lynx l","n_mpg":"36","n_cyls":"4","n_disp":"98","n_hp":"70","n_wlbs":"2125","n_acc":"17.3","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"nissan stanza xe","n_mpg":"36","n_cyls":"4","n_disp":"120","n_hp":"88","n_wlbs":"2160","n_acc":"14.5","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"honda Accelerationord","n_mpg":"36","n_cyls":"4","n_disp":"107","n_hp":"75","n_wlbs":"2205","n_acc":"14.5","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"toyota corolla","n_mpg":"34","n_cyls":"4","n_disp":"108","n_hp":"70","n_wlbs":"2245","n_acc":"16.9","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"honda civic","n_mpg":"38","n_cyls":"4","n_disp":"91","n_hp":"67","n_wlbs":"1965","n_acc":"15","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"honda civic (auto)","n_mpg":"32","n_cyls":"4","n_disp":"91","n_hp":"67","n_wlbs":"1965","n_acc":"15.7","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"datsun 310 gx","n_mpg":"38","n_cyls":"4","n_disp":"91","n_hp":"67","n_wlbs":"1995","n_acc":"16.2","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"buick century limited","n_mpg":"25","n_cyls":"6","n_disp":"181","n_hp":"110","n_wlbs":"2945","n_acc":"16.4","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"oldsmobile cutlass ciera (diesel)","n_mpg":"38","n_cyls":"6","n_disp":"262","n_hp":"85","n_wlbs":"3015","n_acc":"17","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"chrysler lebaron medallion","n_mpg":"26","n_cyls":"4","n_disp":"156","n_hp":"92","n_wlbs":"2585","n_acc":"14.5","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"ford granada l","n_mpg":"22","n_cyls":"6","n_disp":"232","n_hp":"112","n_wlbs":"2835","n_acc":"14.7","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"toyota celica gt","n_mpg":"32","n_cyls":"4","n_disp":"144","n_hp":"96","n_wlbs":"2665","n_acc":"13.9","s_year":"1982-01-01","s_origin":"Japan"}
+{"s_name":"dodge charger 2.2","n_mpg":"36","n_cyls":"4","n_disp":"135","n_hp":"84","n_wlbs":"2370","n_acc":"13","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"chevrolet camaro","n_mpg":"27","n_cyls":"4","n_disp":"151","n_hp":"90","n_wlbs":"2950","n_acc":"17.3","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"ford mustang gl","n_mpg":"27","n_cyls":"4","n_disp":"140","n_hp":"86","n_wlbs":"2790","n_acc":"15.6","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"vw pickup","n_mpg":"44","n_cyls":"4","n_disp":"97","n_hp":"52","n_wlbs":"2130","n_acc":"24.6","s_year":"1982-01-01","s_origin":"Europe"}
+{"s_name":"dodge rampage","n_mpg":"32","n_cyls":"4","n_disp":"135","n_hp":"84","n_wlbs":"2295","n_acc":"11.6","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"ford ranger","n_mpg":"28","n_cyls":"4","n_disp":"120","n_hp":"79","n_wlbs":"2625","n_acc":"18.6","s_year":"1982-01-01","s_origin":"USA"}
+{"s_name":"chevy s-10","n_mpg":"31","n_cyls":"4","n_disp":"119","n_hp":"82","n_wlbs":"2720","n_acc":"19.4","s_year":"1982-01-01","s_origin":"USA"}
