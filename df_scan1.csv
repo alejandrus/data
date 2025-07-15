@@ -1,0 +1,8 @@
+"s_ip","s_dns","s_qid","n_port","s_protocol"
+"14.22.33.1","johnl.winston.lennon.dev","38169",56134,"tcp"
+"14.22.33.1","johnl.winston.lennon.dev","38170",56134,"tcp"
+"16.30.12.111","paulm.sir.james.paul.mccartney","38601",56134,"tcp"
+"16.30.12.111",NA,"38603",221,"udp"
+"150.23.33.132","keithr.keith.richards","38909",22,"tcp"
+"13.21.32.2","charliew.charles.robert.watts.cert","38655",5634,"tcp"
+"13.19.29.4",NA,"42366",9090,"tcp"
